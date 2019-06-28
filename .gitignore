@@ -28,6 +28,7 @@ src/jtag/drivers/OpenULINK/*.rst
 
 # editor files
 *.swp
+.idea
 
 src/startup.tcl
 startup_tcl.inc
